@@ -1,0 +1,18 @@
+.centre{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.star{
+    font-size: 2.8rem;
+}
+
+.active {
+    color:red;
+  }
+  
+  .inactive {
+    color: #000000;
+  }
